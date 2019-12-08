@@ -1,2 +1,2 @@
 # pigGame
-Simple Dice game
+Simple Dice game using front end.
