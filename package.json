@@ -1,0 +1,19 @@
+{
+    "name": "piggame",
+    "version": "1.0.0",
+    "description": "Simple pig game",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yobin7364/pigGame.git"
+    },
+    "author": "yobin",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yobin7364/pigGame/issues"
+    },
+    "homepage": "https://github.com/yobin7364/pigGame#readme"
+}
